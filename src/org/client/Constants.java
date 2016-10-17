@@ -35,15 +35,15 @@ public class Constants {
 	
 	public static final String HOME_PATH = (new File(System.getProperty("user.home")).exists() ? System.getProperty("user.home") : "/root") + "/OSLoader";
 
-	public static String SITE_URL = "http://scarscripts.xyz/";
+	public static String SITE_URL = "http://ratz-rs.net/";
 	
 	public static String OSRS_HOME = "http://oldschool.runescape.com/oldschool_index";
 	public static String OSRS_FORUM = "http://services.runescape.com/m=forum/forums.ws#group63";
 	public static String OSRS_WIKI = "http://2007.runescape.wikia.com/wiki/2007scape_Wiki";
 	
 	public static String OSL_FORUM = "";
-	public static String OSL_GITHUB = "https://github.com/osloader/OSLoader";
-	public static String OSL_ISSUES = "https://github.com/osloader/OSLoader/issues";
+	public static String OSL_GITHUB = "https://github.com/wahahahahahaha/OSLoader";
+	public static String OSL_ISSUES = "https://github.com/wahahahahahaha/OSLoader/issues";
 	
     public static final String RS3_HISCORES_URL = "http://services.runescape.com/m=hiscore/index_lite.ws?player=";
     public static final String OLDSCHOOL_HISCORES_URL = "http://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player=";
