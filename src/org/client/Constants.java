@@ -28,7 +28,7 @@ public class Constants {
 	
 	public static double version = getCurrentVersion();
 	
-	public static final String CLIENT_TITLE = "OSLoader";
+	public static final String CLIENT_TITLE = "Ratz Client";
 
 	public static final int APPLET_WIDTH = 765;
 	public static final int APPLET_HEIGHT = 503;
